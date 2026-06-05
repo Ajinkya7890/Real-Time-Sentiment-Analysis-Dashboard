@@ -1,0 +1,31 @@
+tweet,Sentiment,Score
+I love learning Data Science,Positive,0.6369
+Python is amazing,Positive,0.5859
+Artificial Intelligence is changing the world,Positive,0.4767
+This movie was fantastic,Positive,0.5574
+The match today was incredible,Neutral,0.0
+I am very happy with this product,Positive,0.6115
+Fantastic dashboard design,Positive,0.5574
+Machine learning is exciting,Positive,0.4939
+The concert was wonderful,Positive,0.5719
+Best experience ever,Positive,0.6369
+This movie was terrible,Negative,-0.4767
+The service was disappointing,Negative,-0.4939
+Worst experience ever,Negative,-0.6249
+I hate waiting in traffic,Negative,-0.5719
+The website keeps crashing,Neutral,0.0
+The food tasted awful,Negative,-0.4588
+Very poor customer support,Negative,-0.1102
+This update ruined everything,Negative,-0.4767
+I am frustrated with the results,Negative,-0.5267
+Bad performance overall,Negative,-0.5423
+Today is a normal day,Neutral,0.0
+Nothing special happened today,Negative,-0.3089
+The meeting starts at 5 PM,Neutral,0.0
+I went to the store,Neutral,0.0
+Weather seems average today,Neutral,0.0
+The train arrived on time,Neutral,0.0
+Reading a new book,Neutral,0.0
+Working on a project,Neutral,0.0
+Just completed my assignment,Neutral,0.0
+Having lunch now,Neutral,0.0
